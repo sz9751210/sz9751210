@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alan Wang
+![about me](https://gist.githubusercontent.com/sz9751210/2bb0c8f2b40f3b886d6747516f499079/raw/59215d0cf37c40d8a8a73b4cbfcdb801ef74d896/Hi,%2520I'm%2520Alan.png)
 
 - 📝 I regulary write articles on [艾倫的程式之旅](https://sz9751210.github.io/)
 
